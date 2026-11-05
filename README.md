@@ -1,5 +1,5 @@
 # Table of Contents
-<a href="https://datashyre.com/.com">DataShyre Consent Management</a>
+<a href="https://datashyre.com/">DataShyre Consent Management</a>
 - [Contributing](#contributing)
   - [Adding a New Script](#adding-a-new-script)
 - [List of Scripts in Repo](#list-of-scripts-in-repo)
